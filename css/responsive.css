@@ -34,7 +34,12 @@ nav ul li#nav_fair {
 	border-top: none;
 	border-left: none;
 }
-nav ul li#nav_plan,
+nav ul li#nav_plan {
+	border: 1px solid #f3f2e9;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+}
 nav ul li#nav_contact {
 	border: 1px solid #f3f2e9;
 	border-top: none;
